@@ -6,3 +6,4 @@
   
 # 注意事项
 1. 忘了说了，一般工作流程是修改提交，并且在提交后，工作前，push前都拉去一下避免不必要的麻烦。
+2. 关于提交的message规范，请看[这里](https://www.conventionalcommits.org/en/v1.0.0/)
