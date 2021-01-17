@@ -1,1 +1,2 @@
-1. tortoisegit(https://tortoisegit.org/)--Windows
+1. tortoisegit(https://tortoisegit.org/)
+2. GitKraken(https://www.gitkraken.com/)
