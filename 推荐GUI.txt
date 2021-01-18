@@ -1,2 +1,3 @@
-1. tortoisegit(https://tortoisegit.org/)
-2. GitKraken(https://www.gitkraken.com/)
+1. tortoisegit(https://tortoisegit.org/) FOSS 推荐理由：不用特地打开某个软件，集成在右键菜单，而且功能很多。
+2. GitKraken(https://www.gitkraken.com/) 推荐理由：在GitHub学生优惠包里，不用特地下载git，因为本身集成了nodegit。
+3. ungit(https://github.com/FredrikNoren/ungit) FOSS 推荐理由：推荐喜欢浏览器GUI的同学，ungit使用了nodejs技术，需要浏览器运行。
