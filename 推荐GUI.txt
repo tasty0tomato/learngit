@@ -2,3 +2,4 @@
 2. GitKraken(www.gitkraken.com/) 推荐理由：在GitHub学生优惠包里，不用特地下载git，因为本身集成了nodegit。
 3. ungit(github.com/FredrikNoren/ungit) FOSS 推荐理由：推荐喜欢浏览器GUI的同学，ungit使用了nodejs技术，需要浏览器运行。
 4. git-cola(git-cola.github.io/) FOSS 推荐理由：一个中规中矩的GUI。
+5. Atomatom.io/) FOSS 推荐理由：不仅仅是一个GUI，也是一个文本编辑器。
